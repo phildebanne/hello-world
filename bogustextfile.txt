@@ -1,0 +1,4 @@
+I just wanted to test adding file to the working tree.
+
+	-- moi
+	
